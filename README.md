@@ -17,3 +17,8 @@ rm deleteme
 ```
 
 * [Stack Overflow](https://stackoverflow.com/a/9123563)
+
+# Debugging steps
+
+1. Exactly replicate examples from the library source.
+2. Consider any environment/configuration changes you've made or will need to make.
